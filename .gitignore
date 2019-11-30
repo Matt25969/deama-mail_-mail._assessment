@@ -1,1 +1,3 @@
-venv/
+application/venv/
+__pycache__
+pythonTables.py
